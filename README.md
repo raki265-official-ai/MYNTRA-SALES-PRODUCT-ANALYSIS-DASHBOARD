@@ -44,7 +44,7 @@ The dashboard provides a comprehensive understanding of sales performance, produ
 
 ## 📈 Page 1 — Sales Overview
 
-![Sales Overview Dashboard](./ASSETS/SALES%20OVERVIEW.png)
+![Sales Overview Dashboard](./ASSETS/SALES_OVERVIEW.png)
 
 The Sales Overview dashboard provides a high-level view of business performance through interactive KPIs, trend analysis, and sales visualizations.
 
