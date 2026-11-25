@@ -306,15 +306,18 @@ Review cancelled and returned orders to understand potential fulfillment, produc
 ## 📁 Repository Structure
 
 ```text
-Myntra-Sales-Analysis-PowerBI/
+📦 MYNTRA-SALES-PRODUCT-ANALYSIS-DASHBOARD
 │
-├── README.md
+├── 📁 ASSETS/
+│   ├── 🖼️ SALES_OVERVIEW.png
+│   └── 🖼️ PRODUCT ANALYSIS.png
 │
-├── MYNTRA_SALES_DASHBOARD_FINAL.pbix
+├── 📁 DATASETS/
+│   └── 📦 Source CSV Datasets
 │
-└── assets/
-    ├── sales-overview.png
-    └── product-analysis.png
+├── 📊 MYNTRA_SALES_DASHBOARDS.pbix
+│
+└── 📄 README.md
 ```
 
 ---
