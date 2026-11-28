@@ -15,6 +15,16 @@ The dashboard provides a comprehensive understanding of sales performance, produ
 
 ---
 
+## 🎥 Project Presentation Video
+
+Watch the complete Myntra Sales & Product Analytics Dashboard presentation on YouTube.
+
+[![Watch Project Presentation](https://img.youtube.com/vi/bYTkiYEoXZY/hqdefault.jpg)](https://youtu.be/bYTkiYEoXZY)
+
+[▶ Watch Presentation Video on YouTube](https://youtu.be/bYTkiYEoXZY)
+
+---
+
 ## 🎯 Project Objectives
 
 - Analyze overall sales and revenue performance.
